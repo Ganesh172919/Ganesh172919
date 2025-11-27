@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLM+Innovator;Full-Stack+Developer;Building+Intelligent+Systems;Turning+Ideas+Into+Products" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLM+Researcher;Full-Stack+Developer;Building+Intelligent+Systems;Turning+Ideas+Into+Products" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -32,20 +32,15 @@
 
 ## 🎯 About Me
 
-Passionate AI Engineer and Software Developer specializing in building intelligent, scalable systems that solve real-world problems. Currently pursuing B.Tech in Data Science & AI with a Minor in Generative AI at IIIT Dharwad.
+Passionate AI Researcher and Software Developer specializing in building intelligent solutions, scalable systems, that solve real-world problems.
 
-### 🔍 Areas of Interest
-- 🤖 AI-powered applications & intelligent systems
-- 🧠 Large Language Models & RAG pipelines
-- ⚡ Full-stack development & rapid prototyping
-- 🔧 Automation & productivity tools
-- 📊 Data science & machine learning pipelines
+**🔍 Areas of Interest:** AI Research & LLM Applications • Full-Stack Development • GenAI
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Technology Stack
 
-### 💻 Core Programming
+### 💻 Programming Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -57,7 +52,7 @@ Passionate AI Engineer and Software Developer specializing in building intellige
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -65,30 +60,22 @@ Passionate AI Engineer and Software Developer specializing in building intellige
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### 🌐 Web Development & Backend
+### 🌐 Web Development
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-### 🗄️ Databases & DevOps
+### 🗄️ Databases & Tools
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-### 🔧 Development Tools
-<p>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -116,66 +103,19 @@ Passionate AI Engineer and Software Developer specializing in building intellige
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh172919&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
-<br/><br/>
-
-<!-- Trophy Stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=Ganesh172919&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%"/>
-
 </div>
 
 ---
 
-## 📈 Coding Activity
+## 💬 Open to Collaborate
 
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- Coding stats can be added with WakaTime integration -->
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**📧 Email**  
-kumarreddyganesh126@gmail.com
-</td>
-<td align="center" width="33%">
-
-**💼 LinkedIn**  
-[Connect with me](https://www.linkedin.com/in/ganesh-kumar-reddy)
-</td>
-<td align="center" width="33%">
-
-**🐙 GitHub**  
-[View Profile](https://github.com/Ganesh172919)
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 💬 Open to:
 **🤝 Collaborations** • **💼 Opportunities** • **🎯 Open Source Projects** • **📚 Knowledge Sharing**
 
-<br/>
-
 ---
 
-<br/>
+<div align="center">
 
-### ⭐ *"The best way to predict the future is to create it."* – Peter Drucker
-
-### 💡 Let's build something meaningful together.
+### ⭐ *"The best way to predict the future is to create it."*
 
 <br/>
 
