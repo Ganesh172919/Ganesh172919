@@ -23,8 +23,6 @@
 
 <br/>
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Ganesh172919&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
