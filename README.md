@@ -13,16 +13,13 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLM+Researcher;Full-Stack+Developer;Building+Intelligent+Systems;Turning+Ideas+Into+Products" alt="Typing SVG" /></a>
 
-<br/><br/>
+
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-kumar-reddy)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh172919)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarreddyganesh126@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-<br/>
-
 
 </div>
 
