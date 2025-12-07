@@ -80,15 +80,6 @@ Passionate AI Researcher and Software Developer specializing in building intelli
 <div align="center">
 
 <!-- Profile Summary Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ganesh172919&theme=radical" width="100%"/>
-
-<br/><br/>
-
-<!-- Stats Row -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ganesh172919&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=GitHub%20Statistics" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh172919&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
-
-<br/><br/>
 
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Ganesh172919&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%"/>
