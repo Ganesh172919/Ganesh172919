@@ -79,12 +79,7 @@ Passionate AI Researcher and Software Developer specializing in building intelli
 
 <div align="center">
 
-<!-- Profile Summary Card -->
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ganesh172919&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%"/>
-
-<br/><br/>
 
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh172919&theme=react-dark&hide_border=true&area=true" width="100%"/>
