@@ -73,20 +73,7 @@ Passionate AI Researcher and Software Developer specializing in building intelli
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh172919&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
 
 ## 💬 Open to Collaborate
 
