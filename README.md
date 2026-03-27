@@ -2,7 +2,7 @@
 
 <sub>**j. ganesh kumar reddy**</sub><br/>
 <sub>b.tech · data science & ai · minor in genai · iiit dharwad</sub><br/><br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-kumar-reddy)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ganesh172919)&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://web-portfolio-euf1tt26l-j-ganeshs-projects.vercel.app/)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kumarreddyganesh126@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-kumar-reddy)&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://web-portfolio-euf1tt26l-j-ganeshs-projects.vercel.app/)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kumarreddyganesh126@gmail.com)
 
 </div>
 
