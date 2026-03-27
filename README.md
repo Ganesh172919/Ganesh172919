@@ -6,22 +6,13 @@
 
 </div>
 
-<sub>ai researcher & builder — efficient models, agentic systems, shipping things that solve real problems.</sub>
-
 <sub>**🔬 building**</sub><br/>
 <sub>→ **efficient slms** — training & optimizing small language models for edge inference<br/>
+→ **local slm work flow** — domain-specific pipelines<br/>
 → **slm fine-tuning** — domain-specific pipelines · loRA · qloRA · peft<br/>
 → **agentic workflows** — multi-agent systems with langgraph for task automation<br/>
 → **ai social automation** — autonomous agents for content creation & scheduling<br/>
 → **web dev** — creating full stack applications</sub>
-
-<sub>**📦 projects**</sub><br/>
-<sub>[**synthetic-data-generator**](https://github.com/Ganesh172919/Synthetic-Data-Generator-1) — agentic ai pipeline to generate synthetic data · `js`<br/>
-[**personal-finance**](https://github.com/Ganesh172919/personal-finance) — personal finance tracker · `typescript`<br/>
-[**onwings.v2**](https://github.com/Ganesh172919/OnWings.v2) — flight booking platform · `javascript`<br/>
-[**ml_project**](https://github.com/Ganesh172919/Ml_project) — classification using random forest · `python`<br/>
-[**problem_solve**](https://github.com/Ganesh172919/Problem_solve) — real-world problem solutions · `typescript`<br/>
-[**backend**](https://github.com/Ganesh172919/Backend) — backend development practice · `node`</sub>
 
 <sub>**🛠 skills**</sub><br/>
 <sub>`python` `c++` `javascript` `typescript` · `pytorch` `transformers` `langchain` `langgraph` `scikit-learn` · `react` `fastapi` `flask` · `postgresql` `mongodb` · `docker` `git`</sub>
