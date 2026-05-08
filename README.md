@@ -11,8 +11,7 @@
 ---
 
 **🔬 building**
-
-<sub>→ **efficient slms** — training & optimizing small language models for edge inference · → **local slm workflow** — domain-specific pipelines for task automation & high quality synthetic data generation · → **slm fine-tuning** — domain-specific pipelines & use cases · loRA · qloRA · peft · → **agentic workflows** — multi-agent systems with langgraph for any automation · → **ai social automation** — autonomous agents for continuous content creation & ai-powered recommendation · → **product thinking** — referral systems, information architecture & product strategy for ai projects · → **web dev** — full stack applications for ai-powered products</sub>
+<sub>→ **efficient slms** — training & optimizing small language models for production· → **local slm workflow** — domain-specific pipelines for task automation & high quality synthetic data generation · → **slm fine-tuning** — domain-specific pipelines & use cases · loRA · qloRA · peft · → **agentic workflows** — multi-agent systems with langgraph for any automation · → **ai social automation** — autonomous agents for continuous content creation & ai-powered recommendation · → **product thinking** — systems, architecture & product strategy for ai projects · → **web dev** — Building Backend heavy applications for ai-powered products</sub>
 
 ---
 
